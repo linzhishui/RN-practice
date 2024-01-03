@@ -1,4 +1,3 @@
-import React from 'react';
 import { Image, StyleSheet, Text, View } from 'react-native';
 
 import MainButton from '../components/MainButton';
@@ -24,7 +23,7 @@ const GameOverScreen = (props) => {
 
 const styles = StyleSheet.create({
   screen: {
-    height: 500,
+    flex: 1,
     justifyContent: 'center',
     alignItems: 'center',
   },
