@@ -31,6 +31,7 @@ const styles = StyleSheet.create({
     backgroundColor: '#aaa',
     borderRadius: 10,
     overflow: 'hidden',
+    marginVertical: 10,
   },
   bgImage: {
     width: '100%',
